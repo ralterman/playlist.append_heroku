@@ -142,6 +142,3 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 */.ipynb_checkpoints/*
-
-# pickled files
-*.pkl
